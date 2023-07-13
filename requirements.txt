@@ -1,0 +1,7 @@
+ipython
+numpy
+scipy
+pandas
+psutil
+xsuite
+cpymad
